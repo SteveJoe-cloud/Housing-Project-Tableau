@@ -1,7 +1,7 @@
 # House Sales Visualization
 
 #### Overview
-This project uses Tableau to create a stunning visualization of the Seattle housing market. The project follows the entire data analysis process, from data cleaning and modeling to dashboard creation and storytelling. The main goals of this project are:
+This project uses [Tableau](https://public.tableau.com/views/HouseSalesdashboard_17018293652900/HouseSalesdashboard?:language=en-US&:display_count=n&:origin=viz_share_link) to create a stunning visualization of the Seattle housing market. The project follows the entire data analysis process, from data cleaning and modeling to dashboard creation and storytelling. The main goals of this project are:
 
 - To show proficiency in using Tableau for complex data analysis and visualization tasks
 - To deliver insights and recommendations for different stakeholders, such as home buyers, real estate agents, and policy makers
