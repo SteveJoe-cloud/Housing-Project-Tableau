@@ -4,7 +4,7 @@
 
 This [Tableau](https://public.tableau.com/views/HouseSalesdashboard_17018293652900/HouseSalesdashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 project delivers a **comprehensive market intelligence analysis** of the King County / Seattle housing market.
-Using a dataset of **21,000+ residential property sales**, I built an **interactive Tableau dashboard** that enables stakeholders to identify pricing trends, evaluate property characteristics, and make **data-driven real estate and investment decisions**.
+Using a dataset of **residential property sales**, I built an **interactive Tableau dashboard** that enables stakeholders to identify pricing trends, evaluate property characteristics, and make **data-driven real estate and investment decisions**.
 
 The objective was to move beyond *“pretty charts”* and create a **decision-support tool** that answers critical business questions:
 
