@@ -155,7 +155,8 @@ This insight highlights that **build quality outweighs cosmetic condition** in l
 ## 🚀 How to View the Project
 
 * **Tableau Public Dashboard**
-  👉 *![House Sales Visualization- Tableau](https://github.com/SteveJoe-cloud/Housing-Project-Tableau/assets/142490273/57d1a9eb-64e9-4db4-8dfc-90aefdb5f433)*
+* [Tableau Link](https://public.tableau.com/views/HouseSalesdashboard_17018293652900/HouseSalesdashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+  *![House Sales Visualization- Tableau](https://github.com/SteveJoe-cloud/Housing-Project-Tableau/assets/142490273/57d1a9eb-64e9-4db4-8dfc-90aefdb5f433)*
   
 ---
 
@@ -164,7 +165,7 @@ This insight highlights that **build quality outweighs cosmetic condition** in l
 ```text
 /
 ├── Data/
-│   └── king_county_house_sales.csv
+│   └── kc_house_data.csv
 ├── Workbook/
 │   └── seattle_housing_dashboard.twbx
 └── README.md
